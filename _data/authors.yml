@@ -1,40 +1,40 @@
 # Add Authors here
-johndoe:
+dieudv:
    name: John Doe
-   username: johndoe
-   site: http://johndoe.com
-   avatar: johndoe.png
+   username: dieudv
+   site: http://dieudv.com
+   avatar: dieudv.png
    bio: "Hi I a John, a Web Developer and Designer."
-   email: mail@johndoe.com
+   email: mail@dieudv.com
    social:
       - title: "github"
-        url: "https://github.com/johndoe"
+        url: "https://github.com/dieudv"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/johndoe"
+        url: "https://www.linkedin.com/in/dieudv"
       - title: "youtube"
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
       - title: "facebook"
-        url: "https://www.facebook.com/johndoe"
+        url: "https://www.facebook.com/dieudv"
       - title: "twitter"
-        url: "https://www.twitter.com/johndoe"
+        url: "https://www.twitter.com/dieudv"
       - title: "behance"
-        url: "https://behance.com/johndoe"
+        url: "https://behance.com/dieudv"
       - title: "instagram"
-        url: "https://instagram.com/johndoe"
+        url: "https://instagram.com/dieudv"
       - title: "medium"
-        url: "https://medium.com/johndoe"
+        url: "https://medium.com/dieudv"
       - title: "telegram"
-        url: "https://telegram.com/johndoe"
+        url: "https://telegram.com/dieudv"
       - title: "dribbble"
-        url: "https://dribbble.com/johndoe"
+        url: "https://dribbble.com/dieudv"
       - title: "flickr"
-        url: "https://flickr.com/johndoe"
+        url: "https://flickr.com/dieudv"
 
-xplor4r:
+dieudv:
    name: Sujay kundu
-   username: xplor4r
+   username: dieudv
    site: https://sujaykundu.com
-   avatar: xplor4r.png
+   avatar: dieudv.png
    bio: "Full Stack Web Developer, based in Bangalore, India"
    email: mail@sujaykundu.com
    social:
