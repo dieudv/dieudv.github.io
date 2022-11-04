@@ -1,5 +1,5 @@
 title: dieudv
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: Indie Developer
 description: >- # this means to ignore newlines until "baseurl:"
   sometime i like to code, sometime i like to write.
 
@@ -10,23 +10,23 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
-    - text: About
-      url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
+    - text: About
+      url: /about
+    # - text: Gallery
+    #   url: /gallery
+    # - text: Shop
+    #   url : /shop
+    # - text: Contact
+      # url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
 author: Dieu
-author_bio: Hi, my name is Dieu. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Dieu. I am Indie Developer :D
 author_email: "dieudv.dev@gmail.com"
 author_location: Vietnam
 author_website_url: "https://dieudv.github.io"
@@ -41,21 +41,21 @@ author_work_experiences:
               designation: Software Engineer
               description: Worked on various Google Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+            # - company_name: Microsoft
+            #   company_logo: microsoft.png
+            #   company_url: https://microsoft.com
+            #   designation: Azure Developer
+            #   description: Worked on various Azure Cloud Products
+            #   visibility: true
 
 # Education
-# author_education_details:
-#               - college_logo: mit.png
-#                 college_name: MIT
-#                 college_url: https://mit.org
-#                 college_degree: CS Engineer
-#                 description: Bachelor of Technology
-#                 visibility: true
+author_education_details:
+              - college_logo: mit.png
+                college_name: MIT
+                college_url: https://mit.org
+                college_degree: CS Engineer
+                description: Bachelor of Technology
+                visibility: true
 
 # Projects
 author_project_details:
@@ -108,8 +108,8 @@ permalink: pretty
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
-show_author_education_details: true
-show_author_project_details: true
+show_author_education_details: false
+show_author_project_details: false
 
 # pagination of posts
 paginate: 4
@@ -134,7 +134,7 @@ paginate_path: "/blog/page/:num/"
 
 collections:
   products:
-    output: true
+    output: false
   authors:
     output: true
 
