@@ -25,13 +25,30 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Thumbnail", name: "thumbnail", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
+  - name: "project" # Used in routes, e.g., /admin/collections/blog
+    label: "Projects" # Used in the UI
+    folder: "_projects" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "project"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail-img", widget: "image"}
+      - {label: "Category", name: "category", widget: "string", default: "jekyll"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Keywords", name: "keywords", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
   - name: "page"
     label: "Page"
     folder: "_pages"
     create: true
     slug: ".md"
     fields:
-      - {label: "Layout", name: "layout", widget: "select", options: ["about", "blog", "contact", "gallery", "page", "product"]}
+      - {label: "Layout", name: "layout", widget: "select", options: ["about", "blog", "contact", "gallery", "page", "project", "shop"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "//"}
       - {label: "Body", name: "body", widget: "markdown", required: false}

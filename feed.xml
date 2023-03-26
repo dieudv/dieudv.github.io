@@ -22,6 +22,16 @@ layout: null
       </item>
     {% endfor %}
 
+    {% for proj in site.projects %}
+      <item>
+        <title>{{ proj.title | xml_escape }}</title>
+        <description>{{ proj.content | xml_escape }}</description>
+        <pubDate>{{ proj.date | date_to_rfc822 }}</pubDate>
+        <link>{{ proj.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ proj.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
+
     {% for page in site.pages %}
       {% if page.layout == 'page' %}
         {% if page.name != '404.md' %}

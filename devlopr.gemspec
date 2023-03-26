@@ -4,10 +4,10 @@ Gem::Specification.new do |spec|
   spec.name          = "devlopr"
   spec.version       = "0.4.9"
   spec.authors       = ["Sujay Kundu"]
-  spec.email         = ["dieudv.dev@gmail.com"]
+  spec.email         = ["sujaykundu777@gmail.com"]
 
   spec.summary       = %q{ A Jekyll Theme built for developers }
-  spec.homepage      = "https://github.com/dieudv/dieudv.github.io"
+  spec.homepage      = "https://github.com/sujaykundu777/devlopr-jekyll"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
