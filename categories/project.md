@@ -1,23 +1,26 @@
 ---
 layout: default
+title: Projects
+permalink: /proj/
 ---
+
 <div class="col-lg-12">
  <div class="row justify-content-center">
       <div class="col-lg-8">
               <ul>
                   <div class="row">
-                      {% for proj in site.projects %}
+                      {% for post in site.categories.project %}
                       <div class="card blog-post">
-                          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ proj.thumbnail }}" alt="{{ proj.title }}">
+                          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ post.thumbnail }}" alt="{{ post.title }}">
                           <div class="card-body center">
                               <!-- <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="author-profile-img"> -->
-                              <h4 class="card-title">{{ proj.title }}</h4>
+                              <h4 class="card-title">{{ post.title }}</h4>
 
-                              <h6 class="card-subtitle mb-2 text-muted">{{ proj.date | date: "%b %-d, %Y" }}</h6>
-                              <p class="card-text">{{ proj.summary }} </p>
+                              <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %-d, %Y" }}</h6>
+                              <p class="card-text">{{ post.summary }} </p>
 
-                              <a href="{{ proj.url | prepend: site.baseurl }}" data-disqus-identifier="{{ proj.url }}" class="btn btn-dark btn-lg">Read</a>
-                              <span class="disqus-comment-count" data-disqus-identifier="{{ proj.url }}"></span>
+                              <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-dark btn-lg">Read</a>
+                              <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
 
                           </div>
                       </div>
@@ -59,7 +62,5 @@ layout: default
       </div>
 
     </div>
-    {%- include projects_sidebar.html -%}
-
  </div>
 </div>
