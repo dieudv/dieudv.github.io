@@ -3,8 +3,8 @@ layout: post
 title:  "Những câu chuyện IT ngớ ngẩn"
 summary: "Một vài câu chuyện trong một ngàn lẻ một những câu chuyện ngớ ngẩn khi học IT mà tôi không nhớ hết được"
 author: dieudv
-date: '2022-11-04 19:00:00 +0700'
-category: chuyen-linh-tinh
+date: '2015-01-01 19:00:00 +0700'
+category: tam-su
 thumbnail: /assets/img/posts/code.jpg
 keywords: nhung cau chuyen ngo ngan, chuyen IT
 permalink: /blog/nhung-cau-chuyen-it-ngo-ngan/

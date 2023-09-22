@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Nhật ký tình nguyện hè 2013"
-summary: "Learn how to add categories in posts"
+summary: "Nhật ký tình nguyện hè"
 author: dieudv
-date: '2015-07-10 22:35:23 +0700'
-category: 'chuyen-linh-tinh'
-tags: chuyen-linh-tinh
+date: '2014-07-10 22:35:23 +0700'
+category: 'tam-su'
+tags: tam-su
 thumbnail: /assets/img/posts/code.jpg
 keywords: nhat ky, tinh nguyen, mua he xanh
 usemathjax: false
