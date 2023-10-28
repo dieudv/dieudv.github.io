@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tham gia Xuvi lần thứ 3, có gì khác?"
+title:  "Nhật ký xuyên Việt lần thứ 3"
 summary: Đạp xe Xuyên Việt lần thứ 3
 author: dieudv
 date: '2023-08-24 10:35:23 +0530'
@@ -8,7 +8,7 @@ category: tam-su
 thumbnail: /assets/img/posts/code.jpg
 keywords: đạp xe xuyên việt lần thứ 3
 usemathjax: true
-permalink: /blog/tham-gia-xuvi-lan-thu-3-co-gi-khac/
+permalink: /blog/nhat-ky-xuyen-viet-lan-thu-3/
 ---
 
 Đạp xe xuyên Việt - Hành trình kết nối yêu thương, khi mình tham gia lần thứ 3, trải nghiệm của mình có gì khác so với những lần trước?
@@ -71,17 +71,27 @@ Tầm 22h thì đám nhậu cũng về, lúc về mình và mấy anh em gồm K
 Hậu cần nấu bữa ăn đầu tiên, mình truyền đạt lại một số kinh nghiệm cho tổ hậu cần hôm đó.
 Tối làm khai mạc chương trình xong mình cùng team 22 đi chơi ra bờ hồ tận hơn 12h đêm mới về
 
-###### 1/7/2023, Xuân La, Hà Nội -> Hà Nam, chặng đầu tiên
+###### 1/7/2023, Xuân La, Hà Nội -> Đền thờ Anh hùng Liệt sỹ tỉnh Hà Nam, chặng đầu tiên
 
-Mình đi hậu cần cùng với Hà, Linh và Hương
+Mình đi hậu cần cùng với Hà, Linh và Hương. Tối đó mọi người họp rất nhiều, họp đoàn xong rồi họp BCS, chời má họp nhiều vãi.
 
-###### 2/7/2023, Hà Nam -> Chùa Trẻ, Hà Nam, chặng thứ 2
+###### 2/7/2023, Đền thờ Anh hùng Liệt sỹ tỉnh Hà Nam -> Chùa Trẻ, Ninh Bình, chặng thứ 2
 
+Mình đi hậu cần cùng cô Toán, tới chùa từ sớm mà mãi chẳng gặp được sư thầy nên cứ đợi mãi ở sân, gọi tới gọi lui chẳng được.
 
-###### 3/7/2023, Chùa Trẻ, Hà Nam
+###### 3/7/2023, Chùa Trẻ, Ninh Bình
 
+Sinh hoạt tự do.
+Mọi người đi chơi còn mình vác lap cùng với LA ra cà phê ngồi từ sáng đến tối mịt mới về.
 
-###### 4/7/2023, Chùa Trẻ, Hà Nam -> Chùa Đại Bi, Ninh Bình, chặng thứ 3
+###### 4/7/2023, Chùa Trẻ, Ninh Bình -> Chùa Đại Bi, Thanh Hóa, chặng thứ 3
 
+Mình đi hậu cần cùng với Nhàn, Thánh Thu, A Thái, ai nữa nhỉ, mình chả nhớ, mấy đứa cược nhau rằng nếu bọn nó làm mình giận thì mình mất 50k, còn mình không giận thì mỗi đứa mất cho mình mỗi đứa 50k.
+Tụi nó cứ nghĩ rằng mình sẽ làm hậu cần với tụi nó, ở bếp cùng tụi nó nên sẽ có cơ hội, cuối cùng là mình loanh quanh ở ngoài sắp xếp cái này hết cái kia, rồi tụi nó thua phải chung tiền cho mình, cuối cùng mình đưa lại cho Nhàn xung quỹ luôn.
 
+###### 5/7/2023, Chùa Đại Bi, Thanh Hóa
+
+Làm sự kiện team building ở biển Sầm Sơn, mọi người đi từ sớm LA và A Thái phụ trách chương trình này, còn một mình ở chùa đợi Chung và Vũ Thảo tới.
+
+###### 6/7/2023, Chùa Đại Bi, Thanh Hóa -> Nhà của cậu của Bốt, Nghệ An, chặng thứ 4, 106km
 
