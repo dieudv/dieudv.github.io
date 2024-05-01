@@ -4,8 +4,8 @@ title:  "Old TV Launcher for Android Box"
 summary: "Old TV Launcher for Android Box"
 author: dieudv
 date: '2021-03-9 22:35:23 +0700'
-category: 'projects'
-tags: projects
+category: 'project'
+tags: project
 thumbnail: /assets/img/posts/old-tv-android-box.webp
 keywords: old tv,android box,launcher
 usemathjax: false

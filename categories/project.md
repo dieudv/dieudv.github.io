@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /blog/categories/projects/
+permalink: /blog/categories/project/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
