@@ -13,7 +13,7 @@ urls:
     - text: Blog
       url: /blog
     - text: Projects
-      url : /proj
+      url : /projects
     # - text: Gallery
       # url: /gallery
     - text: About
@@ -59,22 +59,37 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: proj/f13-tools.png
+                project_title: F13 Tools Extension
+                project_description: Bộ công cụ tự động dành cho FB cá nhân
+                project_url: https://lzdev.org/f13-tools
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: proj/melouni.png
+                project_title: Melouni
+                project_description: Trang web nghe nhạc chung cùng bạn bè
+                project_url: https://melouni.com
+                visibility: true
+              - project_thumbnail: proj/tinker.png
+                project_title: Tinker Browser
+                project_description: Trình duyệt tinh chỉnh cho android
+                project_url: https://play.google.com/store/apps/details?id=tinker.browser
+                visibility: true
+              - project_thumbnail: proj/vpn4g.webp
+                project_title: VNP 4G
+                project_description: Ứng dụng truy cập 4G free cho android
+                project_url: https://play.google.com/store/apps/details?id=vn.vpn4g
+                visibility: true
+              - project_thumbnail: proj/trueordare.png
+                project_title: Truth Or Dare
+                project_description: Trò chơi thật hay thách trên android
+                project_url: https://play.google.com/store/apps/details?id=com.truthordare.challenge
                 visibility: true
 
 # social links
 twitter_username: dieudv
 github_username:  dieudv
-# facebook_username: dieudv
-# linkedin_username: dieudv
+facebook_username: dieudv
+linkedin_username: dieudv
 # behance_username: dieudv
 # instagram_username: dieudv
 # medium_username: dieudv

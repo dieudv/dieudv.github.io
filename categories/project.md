@@ -1,27 +1,24 @@
 ---
 layout: default
 title: Projects
-permalink: /proj/
+permalink: /projects/
 ---
 
 <div class="col-lg-12">
  <div class="row justify-content-center">
-      <div class="col-lg-8">
+      <div class="col-lg-12">
               <ul>
                   <div class="row">
-                      {% for post in site.categories.project %}
-                      <div class="card blog-post">
-                          <img class="card-img-top" src="{{ post.thumbnail }}" alt="{{ post.title }}">
+                      {% for project in site.author_project_details %}
+                      <div class="col-md-3 m-2 card blog-post">
+                          <a href="{{project.project_url}}" target="_blank">
+                            <img class="card-img-top" src="/assets/img/{{project.project_thumbnail}}" alt="{{ project.project_title }}">
+                          </a>
                           <div class="card-body center">
-                              <!-- <img src="/assets/img/{{ site.author_logo }}" class="author-profile-img"> -->
-                              <h4 class="card-title">{{ post.title }}</h4>
-
-                              <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %-d, %Y" }}</h6>
-                              <p class="card-text">{{ post.summary }} </p>
-
-                              <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-dark btn-lg">Read</a>
-                              <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
-
+                              <a href="{{project.project_url}}" target="_blank">
+                                <h4 class="card-title">{{ project.project_title }}</h4>
+                              </a>
+                              <p class="card-text">{{ project.project_description }} </p>
                           </div>
                       </div>
                       {% endfor %}
