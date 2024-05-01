@@ -12,7 +12,7 @@ permalink: /projects/
                       {% for project in site.author_project_details %}
                       <div class="col-md-3 m-2 card blog-post">
                           <a href="{{project.project_url}}" target="_blank">
-                            <img class="card-img-top" src="/assets/img/{{project.project_thumbnail}}" alt="{{ project.project_title }}">
+                            <img class="card-img-top mx-auto d-block w-50" src="/assets/img/{{project.project_thumbnail}}" alt="{{ project.project_title }}">
                           </a>
                           <div class="card-body center">
                               <a href="{{project.project_url}}" target="_blank">
