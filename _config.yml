@@ -27,7 +27,7 @@ urls:
 author_logo: profile.png
 author: Dieu
 author_bio: Hi, I'm Dieu. I'm an indie hacker :D
-author_email: "dieudv.dev@gmail.com"
+author_email: "dieu.dv@hotmail.com"
 author_location: Vietnam
 author_website_url: "https://dieudv.github.io"
 typewrite-text: sometime i like to code, sometime i like to write.
@@ -35,11 +35,11 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Gameloft
-              company_logo: gameloft.webp
-              company_url: https://gameloft.com
-              designation: Programmer
-              description: Worked on game projects
+            - company_name: dieudv.github.io
+              company_logo: indie-hacker.png
+              company_url: https://dieudv.github.io
+              designation: Indie Hacker
+              description: Working on my products :)
               visibility: true
             - company_name: AI Labs Makerspace
               company_logo: aifablab.jpg
@@ -47,11 +47,11 @@ author_work_experiences:
               designation: Full-stack Developer
               description: Worked on STEAM products
               visibility: true
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Adroid Developer
-              description: Worked on my products :)
+            - company_name: Gameloft
+              company_logo: gameloft.webp
+              company_url: https://gameloft.com
+              designation: Programmer
+              description: Worked on game projects
               visibility: true
 
 # Education
@@ -116,7 +116,7 @@ telegram_username: dieudv
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: dieudv.dev@gmail.com
+formspree_email: dieu.dv@hotmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
