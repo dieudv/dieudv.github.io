@@ -16,7 +16,7 @@ permalink: /blog/2024-06-05-auto-add-friends-and-react-fb-with-tinker/
 Để sử dụng tính năng này bạn cần tải app **[Tinker Browser](https://play.google.com/store/apps/details?id=tinker.browser)** trên Google Play.
 
 Đăng nhập bằng mật khẩu như bạn sử dụng một trình duyệt bình thường, hoặc sử dụng cookies.
-Khuyến nghị đăng nhập sử dụng cookie theo hướng đẫn ở [bài viết này](/blog/2024-06-03-login-facebook-with-cookie-tinker-browser/).
+Khuyến nghị đăng nhập sử dụng cookie theo hướng đẫn ở [bài viết này](/blog/2024-06-03-login-fb-with-cookie-tinker-browser/).
 
 Nếu đã đăng nhập Facebook, bạn sẽ thấy menu `Tools` khi bấm vào dấu 3 chấm ở góc phải màn hình, bạn sẽ thấy các chức năng **`Auto Reaction`** và **`Friend Request`**
 
