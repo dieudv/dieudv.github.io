@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  'Đăng nhập Facebook bằng cookie sử dụng Tinker Browser'
-summary: 'Đăng nhập Facebook không cần mật khẩu bằng cookie sử dụng Tinker Browser'
+title:  'Đăng nhập FB bằng cookie sử dụng Tinker Browser'
+summary: 'Đăng nhập FB không cần mật khẩu bằng cookie sử dụng Tinker Browser'
 author: dieudv
 date: '2024-06-03 00:00:00 +0000'
 category: 'tricks'
 thumbnail: /assets/img/posts/tinker-title.webp
 keywords: tinker browser, login facebook with cookie
 usemathjax: true
-permalink: /blog/2024-06-03-login-facebook-with-cookie-tinker-browser/
+permalink: /blog/2024-06-03-login-fb-with-cookie-tinker-browser/
 ---
 
-Tinker Browser là trình duyệt android mình đang phát triển với khả năng tùy chỉnh cao, có thể chỉnh user agent, cookie theo ý muốn.
+**Tinker Browser** là trình duyệt android mình đang phát triển với khả năng tùy chỉnh cao, có thể chỉnh user agent, cookie theo ý muốn.
 Ngoài ra Tinker còn hỗ trợ một số tính năng tự động cho Facebook như tự động kết bạn, tự động thả cảm xúc.
 
 Tải app **[Tinker Browser](https://play.google.com/store/apps/details?id=tinker.browser)** trên Google Play.
