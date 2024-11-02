@@ -58,13 +58,13 @@ Mở app **VPN 4G**
 ...
 
 <p align="center">
-    <img src="/assets/img/posts/vpn4g-0.png" alt="drawing" width="50%"/>
+    <img src="/assets/img/posts/vpn-4g-0.png" alt="drawing" width="50%"/>
 </p>
 
 Ngoài ra bạn có thể thay đổi server để đảm bảo tốc độ nhanh nhất, bạn bấm vào tên server, bấm vào vào biểu tượng giống chữ V để test ping, đợi một lúc để app test kết quả, chọn server bạn muốn, lưu ý test ping bạn cần kết nối mạng bình thường.
 
 <p align="center">
-    <img src="/assets/img/posts/vpn4g-2.png" alt="drawing" width="50%"/>
+    <img src="/assets/img/posts/vpn-4g-2.png" alt="drawing" width="50%"/>
 </p>
 
 Hoặc bạn có thể thay đổi server bằng cách bấm vào nút xoay tròn ở ngoài màn hình chính.
