@@ -55,6 +55,7 @@ Mở app **VPN 4G**
 - SNI Free Fire: `dl.aw.garenanow.com`
 - SNI Youtube: `m.youtube.com`
 - SNI Tiktok: `m.tiktok.com` hoặc `v9.tiktokcdn.com`
+
 ...
 
 <p align="center">
@@ -73,3 +74,9 @@ Danh sách server sẽ được cập nhật hằng ngày.
 Chúc bạn thành công!
 
 **Lưu ý**: Nếu bạn đang xài các gói 4G chính, thì nó vẫn trừ data của gói 4G chính trước.
+
+Nếu cần được hỗ trợ thêm bạn có thể tham gia vào nhóm cộng đồng tại:
+
+- **[Telegram](https://t.me/+NkIBuc-DgUc0OGRl)**
+- **[Zalo](https://zalo.me/g/ygkzao352)**
+- **[LotusChat](https://lotuschat.vn/w/+M7X6JtoBlCBlrjQlnChC7q)**
