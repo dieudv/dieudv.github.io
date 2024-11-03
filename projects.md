@@ -5,7 +5,7 @@ permalink: /products/
 ---
 
 <div class="col-lg-12">
- <div class="row justify-content-center">
+ <div class="row justify-content-center mr-0">
       <div class="col-lg-12">
               <ul>
                   <div class="row">
