@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Products
-permalink: /products/
+title: Projects
+permalink: /projects/
 ---
 
 <div class="col-lg-12">
