@@ -92,8 +92,43 @@ author_project_details:
                 visibility: true
               - project_thumbnail: proj/oldtv.png
                 project_title: Old TV
-                project_description: TV Launcher for android box (open source)
+                project_description: TV Launcher cho tivi box kết hợp với tivi đời cũ (open source)
                 project_url: https://github.com/dieudv/oldtv
+                visibility: true
+              - project_thumbnail: proj/codi.png
+                project_title: Codi - Code your device
+                project_description: Lập trình thiết bị của bạn với việc kéo thả
+                project_url: https://play.google.com/store/apps/details?id=com.codi.utils
+                visibility: true
+              - project_thumbnail: proj/pkglist.png
+                project_title: Package Name Viewer
+                project_description: Xem và quản lý package name trên android
+                project_url: https://play.google.com/store/apps/details?id=com.pkglist
+                visibility: true
+              - project_thumbnail: proj/matthuonline.png
+                project_title: Mật Thư Online
+                project_description: Trò chơi giải mật thư online dành cho những bạn đam mê mật thư
+                project_url: https://play.google.com/store/apps/details?id=dieuk.matthuonline
+                visibility: true
+              - project_thumbnail: proj/semoplay.png
+                project_title: Semaphore & Morse Trainer
+                project_description: Luyện tập semaphore & morse trên android
+                project_url: https://play.google.com/store/apps/details?id=dieuk.semoplay
+                visibility: true
+              - project_thumbnail: proj/matthu.png
+                project_title: Giải Mã Mật Thư
+                project_description: Phần mềm chuyên giải mật thư cho android
+                project_url: https://play.google.com/store/apps/details?id=dieuk.gmmt
+                visibility: true
+              - project_thumbnail: proj/semaphore.png
+                project_title: Semaphore Translate
+                project_description: Nhận diện semaphore bằng camera sử dụng AI
+                project_url: https://play.google.com/store/apps/details?id=com.semaphore.translate
+                visibility: true
+              - project_thumbnail: proj/matthu.png
+                project_title: Matthu.vn
+                project_description: Trang web chuyên về mật thư
+                project_url: https://matthu.vn
                 visibility: true
 
 # social links
