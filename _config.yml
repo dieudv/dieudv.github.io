@@ -80,17 +80,42 @@ author_project_details:
                 project_description: Trình duyệt tinh chỉnh cho android
                 project_url: https://play.google.com/store/apps/details?id=tinker.browser
                 visibility: true
-              - project_thumbnail: proj/vpn4g.webp
+              - project_thumbnail: proj/vpn-4g.webp
                 project_title: VNP 4G
                 project_description: Ứng dụng truy cập 4G free cho android
                 project_url: https://play.google.com/store/apps/details?id=vn.vpn4g
                 visibility: true
-              - project_thumbnail: proj/trueordare.png
+              - project_thumbnail: proj/truth-or-dare.png
                 project_title: Truth Or Dare
                 project_description: Trò chơi thật hay thách trên android
                 project_url: https://play.google.com/store/apps/details?id=com.truthordare.challenge
                 visibility: true
-              - project_thumbnail: proj/oldtv.png
+              - project_thumbnail: proj/v2f-proxy.png
+                project_title: V2F Proxy
+                project_description: Proxy Free cho android
+                project_url: https://play.google.com/store/apps/details?id=com.v2free.proxy
+                visibility: true
+              - project_thumbnail: proj/qr-lock.png
+                project_title: QR Lock - Màn hình khóa QR
+                project_description: Bộ sưu tập màn hình khóa QR cho android
+                project_url: https://play.google.com/store/apps/details?id=com.qrlock.wallpaper
+                visibility: true
+              - project_thumbnail: proj/pet-talking-buttons.png
+                project_title: Pet Talking Buttons
+                project_description: Nút bấm nói chuyện thú cưng
+                project_url: https://play.google.com/store/apps/details?id=com.pet.talking.buttons
+                visibility: true
+              - project_thumbnail: proj/crypto-encoder-decoder.png
+                project_title: Crypto Encoder Decoder
+                project_description: Ứng dụng mã hóa và giải mã văn bản
+                project_url: https://play.google.com/store/apps/details?id=com.crypto.encoder.decoder
+                visibility: true
+              - project_thumbnail: proj/simple-tts.png
+                project_title: Simple TTS
+                project_description: Text to Speech with AI Voice
+                project_url: https://play.google.com/store/apps/details?id=ai.tts
+                visibility: true                                                                       
+              - project_thumbnail: proj/old-tv.png
                 project_title: Old TV
                 project_description: TV Launcher cho tivi box kết hợp với tivi đời cũ (open source)
                 project_url: https://github.com/dieudv/oldtv
@@ -100,12 +125,12 @@ author_project_details:
                 project_description: Lập trình thiết bị của bạn với việc kéo thả
                 project_url: https://play.google.com/store/apps/details?id=com.codi.utils
                 visibility: true
-              - project_thumbnail: proj/pkglist.png
+              - project_thumbnail: proj/pkg-list.png
                 project_title: Package Name Viewer
                 project_description: Xem và quản lý package name trên android
                 project_url: https://play.google.com/store/apps/details?id=com.pkglist
                 visibility: true
-              - project_thumbnail: proj/matthuonline.png
+              - project_thumbnail: proj/mat-thu-online.png
                 project_title: Mật Thư Online
                 project_description: Trò chơi giải mật thư online dành cho những bạn đam mê mật thư
                 project_url: https://play.google.com/store/apps/details?id=dieuk.matthuonline
@@ -115,7 +140,7 @@ author_project_details:
                 project_description: Luyện tập semaphore & morse trên android
                 project_url: https://play.google.com/store/apps/details?id=dieuk.semoplay
                 visibility: true
-              - project_thumbnail: proj/matthu.png
+              - project_thumbnail: proj/mat-thu.png
                 project_title: Giải Mã Mật Thư
                 project_description: Phần mềm chuyên giải mật thư cho android
                 project_url: https://play.google.com/store/apps/details?id=dieuk.gmmt
@@ -125,7 +150,7 @@ author_project_details:
                 project_description: Nhận diện semaphore bằng camera sử dụng AI
                 project_url: https://play.google.com/store/apps/details?id=com.semaphore.translate
                 visibility: true
-              - project_thumbnail: proj/matthu.png
+              - project_thumbnail: proj/mat-thu.png
                 project_title: Matthu.vn
                 project_description: Trang web chuyên về mật thư
                 project_url: https://matthu.vn
