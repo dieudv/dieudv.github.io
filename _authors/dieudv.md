@@ -1,7 +1,7 @@
 ---
 name: Dieu DV
 username: dieudv
-bio: "Hi, I'm an Indie Hacker."
+bio: "Hi, I'm an Indie Developer."
 site: http://dieudv.github.io
 avatar: dieudv.png
 email: dieu.cit@gmail.com

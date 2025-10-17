@@ -1,5 +1,5 @@
 title: dieudv
-subtitle: Indie Hacker
+subtitle: Indie Developer
 description: >- # this means to ignore newlines until "baseurl:"
   sometime i like to code, sometime i like to write.
 
@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.png
 author: Dieu
-author_bio: Hi, I'm Dieu. I'm an indie hacker :D
+author_bio: Hi, I'm Dieu. I'm an indie developer :D
 author_email: "dieu.dv@hotmail.com"
 author_location: Vietnam
 author_website_url: "https://dieudv.github.io"
